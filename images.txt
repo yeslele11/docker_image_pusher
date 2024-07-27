@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm/v7 neosmemo/memos:0.15.0
 --platform=linux/arm/v7 linkease/ddnsto:3.0.0
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
+--platform=linux/arm/v7 wiznote/wizserver:latest
