@@ -11,4 +11,3 @@ nginx
 --platform=linux/arm/v7 6053537/portainer-ce:latest
 --platform=linux/arm/v7 whyour/qinglong:latest
 --platform=linux/arm/v7 nginx:stable-perl
---platform=linux/arm/v7 docker pull jellyfin/jellyfin:2025031005-armhf
