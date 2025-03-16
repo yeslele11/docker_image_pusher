@@ -11,3 +11,4 @@ nginx
 --platform=linux/arm/v7 6053537/portainer-ce:latest
 --platform=linux/arm/v7 whyour/qinglong:latest
 --platform=linux/arm/v7 nginx:stable-perl
+--platform=linux/arm/v7 p3terx/aria2-pro:latest
