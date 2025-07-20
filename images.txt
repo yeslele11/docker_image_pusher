@@ -15,3 +15,6 @@ nginx
 --platform=linux/arm/v7 xhofe/alist:latest
 --platform=linux/arm/v7 syncthing/syncthing:latest
 --platform=linux/arm/v7 hslr/sun-panel:latest
+--platform=linux/arm/v7 biarms/mysql:5.7.33-beta-circleci
+--platform=linux/arm/v7 soulteary/flare:latest
+--platform=linux/arm/v7 imzcc/openresty:1.21.4.1-7-alpine
