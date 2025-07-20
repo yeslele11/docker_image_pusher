@@ -18,3 +18,9 @@ nginx
 --platform=linux/arm/v7 biarms/mysql:5.7.33-beta-circleci
 --platform=linux/arm/v7 soulteary/flare:latest
 --platform=linux/arm/v7 zhengkunwang/openresty:1.27.1.2-0-1-focal
+--platform=linux/arm/v7 filebrowser/filebrowser:latest
+--platform=linux/arm/v7 ddsderek/easyimage:latest
+--platform=linux/arm/v7 homeassistant/home-assistant:2025.7
+--platform=linux/arm/v7 b3log/siyuan:latest
+--platform=linux/arm/v7 hectorqin/reader:latest
+--platform=linux/arm/v7 liwangsheng/koodo-reader:latest
