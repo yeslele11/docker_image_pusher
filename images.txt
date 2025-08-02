@@ -23,5 +23,5 @@ ghcr.io/anduin2017/how-to-cook:latest
 --platform=linux/arm/v7 ddsderek/easyimage:latest
 --platform=linux/arm/v7 homeassistant/home-assistant:2025.7
 --platform=linux/arm/v7 b3log/siyuan:latest
---platform=linux/arm/v7 hectorqin/reader:latest
 --platform=linux/arm/v7 liwangsheng/koodo-reader:latest
+--platform=linux/arm/v7 openlistteam/openlist:latest-aio
