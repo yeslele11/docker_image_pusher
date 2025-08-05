@@ -26,3 +26,4 @@ ghcr.io/anduin2017/how-to-cook:latest
 --platform=linux/arm/v7 liwangsheng/koodo-reader:latest
 --platform=linux/arm/v7 openlistteam/openlist:latest-aio
 --platform=linux/arm/v7 jeessy/ddns-go:latest
+--platform=linux/arm/v7 gdy666/lucky:latest
