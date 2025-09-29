@@ -1,7 +1,7 @@
 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-ghcr.io/anduin2017/how-to-cook:latest
+#ghcr.io/anduin2017/how-to-cook:latest
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm/v7 neosmemo/memos:0.15.0
@@ -28,3 +28,4 @@ ghcr.io/anduin2017/how-to-cook:latest
 --platform=linux/arm/v7 jeessy/ddns-go:latest
 --platform=linux/arm/v7 gdy666/lucky:latest
 --platform=linux/arm/v7 liwei2633/gopeed:latest
+--platform=linux/arm/v7 vaultwarden/server:latest
