@@ -29,3 +29,4 @@ nginx
 --platform=linux/arm/v7 gdy666/lucky:latest
 --platform=linux/arm/v7 liwei2633/gopeed:latest
 --platform=linux/arm/v7 vaultwarden/server:latest
+--platform=linux/arm/v7 triliumnext/trilium:latest
