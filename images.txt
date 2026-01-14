@@ -30,4 +30,4 @@ nginx
 --platform=linux/arm/v7 liwei2633/gopeed:latest
 --platform=linux/arm/v7 vaultwarden/server:latest
 --platform=linux/arm/v7 triliumnext/trilium:latest
-
+--platform=linux/arm/v7 johannesjo/super-productivity:v16.5.5
