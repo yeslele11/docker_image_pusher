@@ -31,3 +31,4 @@ nginx
 --platform=linux/arm/v7 johannesjo/super-productivity:v16.5.5
 --platform=linux/arm/v7 joyqi/typecho:nightly-php8.2-fpm-alpine
 --platform=linux/arm/v7 pihole/pihole:latest
+--platform=linux/arm/v7 tsl0922/ttyd:latest
