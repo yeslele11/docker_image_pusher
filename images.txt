@@ -3,17 +3,15 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #ghcr.io/anduin2017/how-to-cook:latest
 #xhofe/alist:latest
-linuxserver/mariadb:arm32v7-10.6.13
+#linuxserver/mariadb:arm32v7-10.6.13
 #支持指定架构
 --platform=linux/arm/v7 neosmemo/memos:0.15.0
---platform=linux/arm/v7 linkease/ddnsto:latest
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
 --platform=linux/arm/v7 wiznote/wizserver:latest
 --platform=linux/arm/v7 6053537/portainer-ce:latest
 --platform=linux/arm/v7 whyour/qinglong:latest
 --platform=linux/arm/v7 p3terx/aria2-pro:latest
 --platform=linux/arm/v7 p3terx/ariang:latest
---platform=linux/arm/v7 xhofe/alist:latest
 --platform=linux/arm/v7 syncthing/syncthing:latest
 --platform=linux/arm/v7 hslr/sun-panel:latest
 --platform=linux/arm/v7 biarms/mysql:5.7.33-beta-circleci
@@ -29,7 +27,7 @@ linuxserver/mariadb:arm32v7-10.6.13
 --platform=linux/arm/v7 gdy666/lucky:latest
 --platform=linux/arm/v7 liwei2633/gopeed:latest
 --platform=linux/arm/v7 vaultwarden/server:latest
---platform=linux/arm/v7 triliumnext/trilium:latest
+--platform=linux/arm/v7 triliumnext/trilium:stable
 --platform=linux/arm/v7 johannesjo/super-productivity:v16.5.5
 --platform=linux/arm/v7 joyqi/typecho:nightly-php8.2-fpm-alpine
 --platform=linux/arm/v7 pihole/pihole:latest
